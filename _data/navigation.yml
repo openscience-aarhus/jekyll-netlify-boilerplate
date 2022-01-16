@@ -4,12 +4,12 @@
   url: /
 - text: About
   url: /about
-- text: News
-  url: /blog
-- text: Calendar
+- text: Events
   url: /blog
 - text: Members
   url: /blog
+- text: Join us!
+  url: /contact
 - text: Contact
   url: /contact
 
