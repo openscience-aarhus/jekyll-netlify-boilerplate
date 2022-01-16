@@ -4,7 +4,12 @@
   url: /
 - text: About
   url: /about
+- text: News
+  url: /blog
+- text: Calendar
+  url: /blog
+- text: Members
+  url: /blog
 - text: Contact
   url: /contact
-- text: Blog
-  url: /blog
+
