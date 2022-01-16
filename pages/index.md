@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Welcome
+title: Big logo
 permalink: /
 section: home
 intro_paragraph: >
- Welcome
+ 
 ---
