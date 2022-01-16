@@ -6,9 +6,7 @@ permalink: /events
 section: events
 intro_paragraph: ""
 ---
-### Upcoming events
-
-See below for upcoming events. For news and updates, see our [twitter](https://twitter.com/kascigala) page.
+See below for our upcoming events. All events are welcome to everyone. For news and updates, see our [twitter](https://twitter.com/kascigala) page.
 
 ### Event 1 (date, place) 
 
