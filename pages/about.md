@@ -6,8 +6,10 @@ permalink: /about
 section: about
 intro_paragraph: ""
 ---
-### A heading
-
-#### Another heading
+### Who are we? 
 
 About the OSC
+
+### What is open science?  
+
+About open science
