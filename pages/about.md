@@ -14,10 +14,5 @@ About the OSC
 
 About open science
 
-### Guiding principles
-
-
-
-```html
-<a href="https://osf.io/36xvz/">Guiding Principles and Code of Conduct</a>
-```
+### Guiding Principles and Code of Conduct
+[Click here](https://osf.io/36xvz/)
