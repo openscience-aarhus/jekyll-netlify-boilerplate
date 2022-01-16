@@ -1,7 +1,7 @@
 ---
 layout: blog
-title: News
+title: Events
 permalink: /blog
 section: blog
-intro_paragraph: Here are the news
+intro_paragraph: ""
 ---
