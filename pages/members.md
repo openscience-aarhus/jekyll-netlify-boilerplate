@@ -13,6 +13,7 @@ Below you can see the community coordinators as well as members of the OSC Utrec
 * [Karolina Ścigała](https://pure.au.dk/portal/en/persons/karolina-aleksandra-scigala(4814b61d-cad1-4133-baba-212e3a44cf81).html)
 * [Janis Zickfeld](https://pure.au.dk/portal/en/persons/janis-heinrich-zickfeld(2a4f1a8a-cd1b-4743-a98a-24082cb98d9b).html)
 
+
 ### Members
 * [Member 1](google.com)
 * [Member 2](google.com)
